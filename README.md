@@ -1,4 +1,4 @@
-🍽️ LLM-Based Calorie Tracker & Food Chatbot
+**🍽️ LLM-Based Calorie Tracker & Food Chatbot**
 
 Cal-Chat adalah aplikasi Calorie Tracker berbasis Large Language Model (LLM) yang memungkinkan pengguna mencatat makanan secara natural (bahasa bebas) sekaligus berinteraksi layaknya ngobrol dengan asisten nutrisi. Pengguna tidak perlu input data secara kaku—cukup ceritakan apa yang dimakan, dan sistem akan memprosesnya.
 
